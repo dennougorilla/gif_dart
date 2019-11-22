@@ -1,4 +1,4 @@
-A library for Dart developers.
+Dart GIF encoder. A library for Dart developers.
 This library wrap gif.js(https://github.com/jnordberg/gif.js).
 
 
