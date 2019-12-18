@@ -1,5 +1,5 @@
 name: gif_dart
-description: A starting point for Dart libraries or applications.
+description: Dart GIF encoder. A library for Dart developers. This library wrap gif.js(https://github.com/jnordberg/gif.js).
 # version: 1.0.0
 # homepage: https://www.example.com
 # author: dennougorilla <dennougorilla@gmail.com>
