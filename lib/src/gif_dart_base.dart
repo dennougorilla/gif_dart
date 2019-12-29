@@ -26,8 +26,9 @@ class Options {
   external int get quality;
   external int get width;
   external int get height;
+  external String get transparent;
 
-  external factory Options({int workers, int quality, int width, int height});
+  external factory Options({int workers, int quality, int width, int height, String transparent});
 }
 
 @JS()
