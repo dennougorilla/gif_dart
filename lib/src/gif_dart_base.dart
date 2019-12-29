@@ -29,7 +29,13 @@ class Options {
   external String get transparent;
   external String get background;
 
-  external factory Options({int workers, int quality, int width, int height, String transparent, String background});
+  external factory Options(
+      {int workers,
+      int quality,
+      int width,
+      int height,
+      String transparent,
+      String background});
 }
 
 @JS()
